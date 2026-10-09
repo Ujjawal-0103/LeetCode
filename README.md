@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Ujjawal-0103/LeetCode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Ujjawal-0103/LeetCode/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/Ujjawal-0103/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/Ujjawal-0103/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ujjawal-0103/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3731-find-missing-elements](https://github.com/Ujjawal-0103/LeetCode/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Ujjawal-0103/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ujjawal-0103/LeetCode/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Ujjawal-0103/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
