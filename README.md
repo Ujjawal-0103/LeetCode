@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Ujjawal-0103/LeetCode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Ujjawal-0103/LeetCode/tree/master/0877-stone-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ujjawal-0103/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3731-find-missing-elements](https://github.com/Ujjawal-0103/LeetCode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ujjawal-0103/LeetCode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Ujjawal-0103/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Ujjawal-0103/LeetCode/tree/master/0455-assign-cookies) |
+| [3731-find-missing-elements](https://github.com/Ujjawal-0103/LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ujjawal-0103/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Ujjawal-0103/LeetCode/tree/master/0217-contains-duplicate) |
 | [0575-distribute-candies](https://github.com/Ujjawal-0103/LeetCode/tree/master/0575-distribute-candies) |
+| [3731-find-missing-elements](https://github.com/Ujjawal-0103/LeetCode/tree/master/3731-find-missing-elements) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
