@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Ujjawal-0103/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Ujjawal-0103/LeetCode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ujjawal-0103/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Ujjawal-0103/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Ujjawal-0103/LeetCode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ujjawal-0103/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0860-lemonade-change](https://github.com/Ujjawal-0103/LeetCode/tree/master/0860-lemonade-change) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Ujjawal-0103/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Binary Search
 |  |
 | ------- |
