@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ujjawal-0103/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ujjawal-0103/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Ujjawal-0103/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Ujjawal-0103/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Ujjawal-0103/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Ujjawal-0103/LeetCode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ujjawal-0103/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -58,11 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ujjawal-0103/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ujjawal-0103/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Ujjawal-0103/LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ujjawal-0103/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ujjawal-0103/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Ujjawal-0103/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Ujjawal-0103/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Ujjawal-0103/LeetCode/tree/master/0455-assign-cookies) |
 | [3731-find-missing-elements](https://github.com/Ujjawal-0103/LeetCode/tree/master/3731-find-missing-elements) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Ujjawal-0103/LeetCode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Ujjawal-0103/LeetCode/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ujjawal-0103/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ujjawal-0103/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ujjawal-0103/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Ujjawal-0103/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Ujjawal-0103/LeetCode/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/Ujjawal-0103/LeetCode/tree/master/0575-distribute-candies) |
 | [3731-find-missing-elements](https://github.com/Ujjawal-0103/LeetCode/tree/master/3731-find-missing-elements) |
 ## Floyd's Cycle Finding Algorithm
@@ -144,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Ujjawal-0103/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Ujjawal-0103/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
