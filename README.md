@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Ujjawal-0103/LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Ujjawal-0103/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Ujjawal-0103/LeetCode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ujjawal-0103/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ujjawal-0103/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0414-third-maximum-number](https://github.com/Ujjawal-0103/LeetCode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Ujjawal-0103/LeetCode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ujjawal-0103/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0860-lemonade-change](https://github.com/Ujjawal-0103/LeetCode/tree/master/0860-lemonade-change) |
 ## Binary Search
@@ -45,8 +47,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/Ujjawal-0103/LeetCode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Ujjawal-0103/LeetCode/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ujjawal-0103/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Ujjawal-0103/LeetCode/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Ujjawal-0103/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
